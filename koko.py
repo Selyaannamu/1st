@@ -1,2 +1,2 @@
 print('Hello World')
-print('jojob')
+print('Privet Nastya')
